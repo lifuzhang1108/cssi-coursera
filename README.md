@@ -1,0 +1,20 @@
+# cssi-coursera
+- Course: Data Structures and Algorithms
+- Specialization: Advanced Algorithms and Complexity
+  - Week 01: Network Flows
+    - Edmonds-Karp and Ford-Fulkerson Algorithms
+    - Bipartite Matching, Image Segmentation
+  - Week 02: Linear Programming
+    - Gaussian Elimination
+    - Solution-finding on a Polyhedron (LP)
+    - Dualities/simplex (not covered, but introduced)
+  - Week 03: NP-Complete Problems
+    - Different types of NP problems (TSP, Hamiltonian Path, CNF, independent set)
+    - P vs NP, NP-completeness and reductions
+    - Reducing graph searches to 3-CNF
+  - Week 04: Coping with NP-completeness
+    - Three different types of algorithms: special case, exact algorithms, and approximate algorithms
+    - Introduction to Dynamic Programming, local searches, branch and bound techniques, backtracking
+    - 2-SAT Solver using Tarjan's Algorithm to find Strongly Connected Components
+    - Solving for weighted independent sets using DP
+    - Branch-and-bound technique for TSP
